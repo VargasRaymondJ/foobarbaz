@@ -18,4 +18,5 @@ func main() {
 		return
 	}
 	log.Printf("all models: %d\n", len(out.Models))
+	
 }
